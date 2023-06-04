@@ -54,7 +54,7 @@
                 <ul>
                     <li>Taught young children the fundamentals of swimming</li>
                     <li>Helped and guided children past their fear of the water and swimming</li>
-                    <li></li>
+                    <li>Provided a safe environment for children to learn swimming</li>
                 </ul>
             </li>
         </ul>
