@@ -4,6 +4,10 @@
 <title>Ryan Cook Resume</title>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="./main.css" />
+
+</head>
+  
+<body>
 <style>
     background{
         color: whitesmoke;
@@ -15,9 +19,6 @@
         font-size: 16pt; font-weight: 400;
     }
 </style>
-</head>
-  
-<body>
     <h1>Ryan Takanobu Cook</h1>
     <a href="ryantcook21@gmail.com">ryantcook21@gmail.com | </a><a href="https://github.com/rcook21">https://github.com/rcook21</a>
     <h2>Education</h2>
