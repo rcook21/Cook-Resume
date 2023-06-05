@@ -4,7 +4,7 @@
 <title>Ryan Cook Resume</title>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="./main.css" />
-  <style>
+<style>
     background{
         color: whitesmoke;
     }
