@@ -4,6 +4,17 @@
 <title>Ryan Cook Resume</title>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="./main.css" />
+  <style>
+    background{
+        color: whitesmoke;
+    }
+    h1{
+        text-align: center; font-size: 23pt; font-weight: 500;
+    }
+    h2{
+        font-size: 16pt; font-weight: 400;
+    }
+</style>
 </head>
   
 <body>
